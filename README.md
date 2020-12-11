@@ -5,8 +5,6 @@ Business and Programming Enthusiast
 
 
 
-## Certifications
-
 ### Human Resource Management (University of Minnesota)
 
 1. [Preparing to Manage Human Resources](https://www.coursera.org/account/accomplishments/certificate/UAESNU2FNFPD)
