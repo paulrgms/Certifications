@@ -1,2 +1,2 @@
-# portfolio
-This is my Portfolio website
+# Paul Richie Gomes
+Business and Programming Enthusiast
