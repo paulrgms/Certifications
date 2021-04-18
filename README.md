@@ -53,10 +53,3 @@ Business and Programming Enthusiast
 
 
 
-### Profiles
-
-HackerRank: https://www.hackerrank.com/paulrichiegms\
-Freecodecamp: https://www.freecodecamp.org/paulrgms\
-Datacamp: https://www.datacamp.com/profile/paulrgms
-
-
